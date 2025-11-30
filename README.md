@@ -1,4 +1,4 @@
-# **Migration of Databse form EC2 to RDS(Iaas to Paas)**
+# **Migration of Database form EC2 to RDS(Iaas to Paas)**
 
 
  ## **📘 Overview**
